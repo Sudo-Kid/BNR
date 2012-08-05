@@ -1,0 +1,1 @@
+dir /s /d %~dp0\bnr_files\*.bat > %~dp0\BNR_files\help.log
